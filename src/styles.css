@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.mat-list .mat-list-item .mat-list-text {
+    width: 88% !important;
+}
+
+  .inputSearchBox{
+    border: 1px solid; 
+    border-radius:.25rem; 
+    width: 70%; 
+    height:38px; 
+    padding-left: 10px;
+  }
+
+   .centeredList{
+    width: 75%;
+    margin-left:12%
+  }
